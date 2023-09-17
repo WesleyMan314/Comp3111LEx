@@ -7,5 +7,6 @@ public class mainApp1 {
         System.out.println("Program started ...");
         System.out.println(b+" to power "+n+" = "+ myLibrary.Power(b,n));
         System.out.println(n+"! = "+myLibrary.factorial(n));
+        System.out.println("Thank you for using Scientific Calculator!");
     }
 }
